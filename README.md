@@ -5,9 +5,7 @@ A command-line tool for Obsidian development, helping with vault management and 
 ## Installation
 
 ```bash
-# Install using pip
 pip install obs-dev
-
 ```
 
 ## Command Structure
